@@ -1,4 +1,8 @@
 ## Hi there 👋
+
+### License:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 <h1 align="center">Hi 👋, I'm M3Creative1</h1> 
 <h3 align="center">A Passionate Full-Stack Web Developer from India 🇮🇳</h3>
 
